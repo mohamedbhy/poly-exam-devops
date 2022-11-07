@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/app/src" },
+    { "path": "./packages/components/src" },
+    { "path": "./packages/server/src" }
+  ]
+}
